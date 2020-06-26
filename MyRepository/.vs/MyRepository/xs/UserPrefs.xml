@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CD7F3F78-4C21-46BA-AB7C-6EF4C7A728AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyRepository/Views/Home/Login.cshtml">
+    <Files>
+      <File FileName="MyRepository/Views/Home/Login.cshtml" Line="107" Column="1" />
+      <File FileName="MyRepository/Controllers/HomeController.cs" Line="29" Column="10" />
+      <File FileName="MyRepository/Views/Home/RestPwd.cshtml" Line="101" Column="21" />
+      <File FileName="MyRepository/Views/Home/Register.cshtml" Line="116" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyRepository" expanded="True">
+            <Node name="MyRepository" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Login.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyRepository PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
